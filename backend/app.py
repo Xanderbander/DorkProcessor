@@ -1,4 +1,3 @@
-
 from flask import Flask, jsonify
 from data_retrieval import retrieve_data
 
